@@ -6,6 +6,7 @@ O trabalho final do curso Software Básico consiste na criação da **Máquina V
 
 ## Grupo:
 Lucas Mafra Chagas - 12/0126443
+Rodrigo Doria Vilaça - 14/0031111
 
 
 ## Funcionamento
