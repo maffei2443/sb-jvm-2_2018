@@ -4,15 +4,15 @@
 
 O trabalho final do curso Software Básico consiste na criação da **Máquina Virtual Java**(JVM). 
 
-# Grupo:
+## Grupo:
 Lucas Mafra Chagas - 12/0126443
 
 
-# Funcionamento
+## Funcionamento
 
-# Estruturação
+## Estruturação
 
-# Referências
+## Referências
 
 [Documentação JVM Oracle](https://docs.oracle.com/javase/specs/jvms/se7/html/)
 
