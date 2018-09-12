@@ -5,6 +5,9 @@
 O trabalho final do curso Software Básico consiste na criação da **Máquina Virtual Java**(JVM). 
 
 ## Grupo:
+
+Leonardo Maffei da Silva - 16/0033811
+
 Lucas Mafra Chagas - 12/0126443
 
 Rodrigo Doria Vilaça - 14/0031111
